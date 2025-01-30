@@ -1,4 +1,4 @@
-   git clone https://github.com/katanadep/tripofob-soft.git
+   git clone https://github.com/katanadep/tripofob-soft
 
    cd tripofob-soft
 
